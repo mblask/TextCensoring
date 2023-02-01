@@ -128,6 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="textCensoringApp.cpp" />
+    <ClCompile Include="textFilter.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="textCensoringApp.h" />
+    <ClInclude Include="textFilter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,2 +1,5 @@
 ﻿  main.cpp
+D:\C++\TextCensoring\TextCensoring\main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  textCensoringApp.cpp
+  Generating Code...
   TextCensoring.vcxproj -> D:\C++\TextCensoring\x64\Debug\TextCensoring.exe
