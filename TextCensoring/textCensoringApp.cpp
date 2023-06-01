@@ -1,6 +1,7 @@
 #include "textCensoringApp.h"
 
 void RunTextCensoringApp() {
+
 	bool isRunning = true;
 
 	std::cout << "*******************************" << std::endl;
